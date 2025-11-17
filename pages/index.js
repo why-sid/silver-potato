@@ -223,7 +223,7 @@ export default function HotelShreeBalajiSimple() {
       </footer>
 
       {/* Floating WhatsApp chat button */}
-      <a href="https://wa.me/9198XXXXXXXX?text=Hi%20Hotel%20Shree%20Balaji%2C%20I%20need%20assistance" target="_blank" rel="noopener noreferrer" className="fixed right-5 bottom-5 z-50 bg-emerald-500 hover:bg-emerald-600 text-white rounded-full p-3 shadow-lg flex items-center justify-center md:hidden" aria-label="Chat on WhatsApp">
+      <a href="https://wa.me/9198XXXXXXXX?text=Hi%20Hotel%20Shree%20Balaji%2C%20I%20need%20assistance" target="_blank" rel="noopener noreferrer" className="fixed right-5 bottom-5 z-50 bg-emerald-500 hover:bg-emerald-600 text-white rounded-full p-3 shadow-lg flex items-center justify-center" aria-label="Chat on WhatsApp">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" className="w-6 h-6" fill="currentColor" aria-hidden="true">
           <path d="M20.52 3.48A11.93 11.93 0 0012.04.5c-6.62 0-11.99 5.37-11.99 12 0 2.12.56 4.1 1.62 5.85L.5 23.5l5.43-1.41A11.92 11.92 0 0012.04 24c6.62 0 11.99-5.37 11.99-12 0-3.2-1.25-6.2-3.51-8.52zM12.04 21.5c-1.78 0-3.46-.47-4.95-1.35l-.35-.2-3.23.84.86-3.14-.23-.36A9.02 9.02 0 013.04 12.5c0-4.97 4.03-9 9-9 4.97 0 9 4.03 9 9s-4.03 9-9 9z" />
           <path d="M17.36 14.19c-.29-.15-1.71-.84-1.98-.94-.27-.1-.47-.15-.67.15s-.76.94-.93 1.13c-.17.19-.34.21-.63.07-.29-.15-1.22-.45-2.32-1.43-.86-.77-1.44-1.72-1.61-2.01-.17-.29-.02-.45.13-.6.13-.12.29-.33.43-.49.14-.16.19-.27.29-.45.1-.17.05-.32-.02-.46-.07-.13-.67-1.62-.92-2.23-.24-.58-.49-.5-.67-.51l-.57-.01c-.2 0-.52.07-.79.32-.27.25-1.03 1.01-1.03 2.47 0 1.45 1.05 2.86 1.2 3.06.15.2 2.08 3.36 5.04 4.72 2.96 1.36 2.96.91 3.49.85.53-.06 1.71-.69 1.95-1.36.24-.67.24-1.24.17-1.36-.07-.12-.27-.19-.56-.34z" />
